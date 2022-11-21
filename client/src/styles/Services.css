@@ -1,0 +1,26 @@
+.ServicesWrapper{
+    border-radius: 10px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+    
+    justify-content: center;
+    height: fit-content;
+    width: fit-content;
+    margin: 20px auto 20px auto;
+    padding: 10px;
+    max-width: 80%;
+    background-color: rgb(222, 158, 31);
+}
+
+.ServicesItem{
+    border-radius: 5px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+
+    background-color: blue;
+    height: fit-content;
+    width: fit-content;
+    min-width: 100px;
+    display: inline-flex;
+    justify-content: center;
+    padding: 10px;
+    margin: 10px;
+}
