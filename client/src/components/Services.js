@@ -1,20 +1,20 @@
 import '../styles/Services.css';
 function Services() {
   const servicesElts = {
-    "service1": "detail1",
-    "service2": "detail2",
-    "service3": "detail3",
-    "service4": "detail4",
-    "service5": "detail5",
-    "service6": "detail6",
-    "service7": "detail7",
-    "service8": "detail8",
-    "service9": "detail9",
-    "service10": "detail10",
-    "service11": "detail11",
-    "service12": "detail12",
-    "service13": "detail13",
-    "service14": "detail14"
+    "service1": "service1",
+    "service2": "service2",
+    "service3": "service3",
+    "service4": "service4",
+    "service5": "service5",
+    "service6": "service6",
+    "service7": "service7",
+    "service8": "service8",
+    "service9": "service9",
+    "service10": "service10",
+    "service11": "service11",
+    "service12": "service12",
+    "service13": "service13",
+    "service14": "service14"
   }
   return (
   <div className="Services">
