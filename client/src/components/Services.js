@@ -22,7 +22,7 @@ function Services() {
     <div className="ServicesWrapper">
       {Object.keys(servicesElts).map(function(key){
           return (
-            <div className="ServicesItem">
+            <div key={servicesElts[key]} className="ServicesItem">
               {servicesElts[key]}
             </div>
           )

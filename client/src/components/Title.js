@@ -1,5 +1,5 @@
 import '../styles/Title.css';
-import logo from '../logo.svg';
+import logo from '../ressources/logo.svg';
 
 function Title() {
     return (

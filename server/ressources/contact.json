@@ -1,0 +1,5 @@
+[
+    {"type" : "Telephone", "value" : "(+33)6 00 00 00 00"},
+    {"type" : "Email", "value" : "jean-michel.dupont@gmail.com"},
+    {"type" : "Address", "value" : "3 rue des champs élysés, 92000 Paris"}
+]

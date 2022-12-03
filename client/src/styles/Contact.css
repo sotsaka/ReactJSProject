@@ -26,6 +26,7 @@ h1.ContactTitle {
 .ContactInfo{
     grid-row: 1;
     grid-column: 1;
+    text-align: center;
 }
 .ContactWayTable, .ContactHourTable{
     padding-left: 20px;

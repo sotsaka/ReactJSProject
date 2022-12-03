@@ -1,0 +1,9 @@
+[
+    {"day" : "Monday", "hours" : "13h00 - 16h00"},
+    {"day" : "Tuesday", "hours" : "13h00 - 16h00"},
+    {"day" : "Wednesday", "hours" : "13h00 - 16h00"},
+    {"day" : "Thursday", "hours" : "13h00 - 16h00"},
+    {"day" : "Friday", "hours" : "13h00 - 16h00"},
+    {"day" : "Saturday", "hours" : "13h00 - 16h00"},
+    {"day" : "Sunday", "hours" : "13h00 - 16h00"}
+]

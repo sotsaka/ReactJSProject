@@ -1,0 +1,23 @@
+.wrapperbuttons {
+    display: flex;
+    justify-content: center;
+    height: fit-content;
+    width: 300px;
+    max-width: 90%;
+    margin: 20px auto 20px auto;
+    border-radius: 10px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+
+}
+
+.Login {
+    border: 1px;
+    background-color: #a8b90c;
+    border-radius: 10px 0px 0px 10px;
+}
+.Signup {
+    border: 1px;
+    background-color: rgb(253, 251, 251);
+    border-radius: 0px 10px 10px 0px;
+
+}
